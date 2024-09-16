@@ -1,6 +1,6 @@
 - 👋 Hi guys, I’m @RVBNN, Actuary graduate of the Faculty of Sciences at the Universidad Nacional Autónoma de México
 - 👀 I’m interested in Data Science and Finance as well as probability theory
-- 🌱 I’m currently learning Python, VBA and reinforcing my knowledge in R
+- 🌱 You can find projects using Python, VBA, R y SQL
 - 📫 You can find me in LinkedIn at www.linkedin.com/in/ruben-núñez
 
 This repository is dedicated to share my school projects, as well as personal projects 
@@ -9,7 +9,7 @@ __________________________________
 
 - 👋 Que tal chicos, soy @RVBNN, egresado de la carrera de actuaría en la Facultad de Ciencias de la Universidad Nacional Autónoma de México
 - 👀 Interesado en Ciencia de Datos, Finanzas y Teoría de la probabilidad
-- 🌱 Actualmente me encuentro aprendiendo Python, VBA y reforzando mis conocimientos en R
+- 🌱 Pueden encontrar proyectos usando Python, VBA, R y SQL
 - 📫 Me pueden encontrar en LinkedIn en www.linkedin.com/in/ruben-núñez
 
 Este repositorio está dedicado para compartir mis proyectos escolares, así como proyectos personales
